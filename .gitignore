@@ -1,0 +1,43 @@
+# ==========================================
+# .gitignore — Advance Leaf Disease Detection
+# ==========================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# --- Virtual Environments ---
+venv/
+env/
+.env/
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Large Binary Files ---
+# APK exceeds GitHub's 100MB file-size limit
+*.apk
+
+# --- Preprocessed Images (generated via preprocessing.py) ---
+# These can be regenerated from the raw dataset
+preprocessed_images/
+
+# --- Dataset (not included in repo — too large) ---
+dataset/
