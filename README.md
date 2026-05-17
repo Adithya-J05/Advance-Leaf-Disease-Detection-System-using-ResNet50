@@ -290,7 +290,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <p align="center">
   <b>⭐ If you found this project useful, please give it a star!</b>
 </p>
-
-<p align="center">
-  Made with ❤️ for smarter agriculture
-</p>
