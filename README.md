@@ -4,15 +4,6 @@
     A deep learning–powered system for detecting and classifying <b>tomato leaf diseases</b> using a fine-tuned <b>ResNet50</b> model, built with <b>PyTorch</b> and accelerated with <b>CUDA</b>.
   </p>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/ResNet50-Transfer%20Learning-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
-</p>
-
 ---
 
 ## 📋 Table of Contents
