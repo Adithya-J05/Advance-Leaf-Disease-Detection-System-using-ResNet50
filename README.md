@@ -4,6 +4,7 @@
     A deep learning–powered system for detecting and classifying <b>tomato leaf diseases</b> using a fine-tuned <b>ResNet50</b> model, built with <b>PyTorch</b> and accelerated with <b>CUDA</b>.
   </p>
 </p>
+
 ---
 
 ## 📋 Table of Contents
